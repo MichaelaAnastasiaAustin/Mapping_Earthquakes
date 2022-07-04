@@ -2,7 +2,7 @@
 
 ## Background
 
-The basis of this assignment was to present earthquake data in relation to tectonic plates’ location on the earth, as well as show all earthquakes with a magnitude greater than 4.5 on the map.
+The basis of this assignment was to present earthquake data as a dynamic map, highlighting earthquakes in relation to tectonic plates’ location on the earth, as well as all earthquakes with a magnitude greater than 4.5.
 
 
 ## Overview
@@ -28,8 +28,8 @@ Deliverable 1: Add Tectonic Plate Data
 ![deliverable_1](https://github.com/MichaelaAnastasiaAustin/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/deliverable_1.png)
 
 Deliverable 2: Add Major Earthquake Data
-- We successfully added major earthquake data which appears as circles in different shades of purple and pink on the map (see image below). 
-![deliverable_2](https://github.com/MichaelaAnastasiaAustin/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/deliverable_2.png)
+- We successfully added major earthquake data which appears as an overlay with circles in different shades of purple on the map (see image below). 
+![deliverable_2](https://github.com/MichaelaAnastasiaAustin/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/deliverable2v2.png)
 
 Deliverable 3: Add an Additional Map
 - We successfully added a third map style -- Mapbox Navigation Night -- to our earthquake map (see image below).
